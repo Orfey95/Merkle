@@ -1,2 +1,2 @@
 # Merkle
-Merkle tree with WOTS OTS
+Merkle tree with WOTS
